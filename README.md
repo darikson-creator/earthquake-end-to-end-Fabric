@@ -20,3 +20,25 @@ An end-to-end cloud data engineering and business intelligence solution built on
 * **Orchestration:** Fabric Data Factory Pipelines
 * **Analytics & BI:** Power BI (Direct Lake Mode, Custom Map Visuals)
 * **External APIs:** USGS Earthquake Hazards API, Reverse Geocoder
+
+---
+
+## 🛠️ Workflow (Images)
+
+### Lakehouse
+ ![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/1.%20LakeHouse.png)
+ 
+### Bronze Layer(code)
+ ![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/2.%20Bronze%20Layer.png)
+ 
+### Silver Layer(code)
+ ![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/3.%20Silver_layer.png)
+ 
+### Gold Layer(code)
+ ![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/4.%20Gold%20Layer.png)
+ 
+### Orchestration Pipeline
+![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/5.%20Pipeline.png)
+
+### PBI Report
+![image alt](https://github.com/darikson-creator/fabric-earthquake-pipeline/blob/c8c989c716f5971202a1adc57c8736ef43aac9f7/6.%20PBI_Report.png)
